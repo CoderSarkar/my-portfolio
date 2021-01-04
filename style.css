@@ -9,6 +9,14 @@ h1{
     font-size: 50px;
 
 }
+h4{
+    color: rgb(128, 98, 0);
+    font-size: 20px;
+}
+
+#name{
+    font-size: 40px;
+}
 .name-highlight{
 
     color: orange;
@@ -18,7 +26,11 @@ h1{
     float: left;
     margin-left: 5%;
     padding-left: 2%;
+
 }
 .objective img{
     width: 100%;
+    margin-left: 10px;
+    height: 100%;
+
 }
